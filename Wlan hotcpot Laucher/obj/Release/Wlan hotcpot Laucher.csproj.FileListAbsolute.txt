@@ -1,0 +1,24 @@
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.About.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.Form1.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.Properties.Resources.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.Settings.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan hotcpot Laucher.csproj.GenerateResource.Cache
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan hotcpot Laucher.csprojResolveAssemblyReference.cache
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Release\whp.exe.config
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Release\whp.exe.manifest
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Release\whp.application
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Release\whp.exe
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Release\whp.pdb
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\whp.exe.manifest
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\whp.application
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\whp.exe
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\whp.pdb
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan hotcpot Laucher.csprojResolveAssemblyReference.cache
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.About.resources
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.Form1.resources
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.Properties.Resources.resources
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan_hotcpot_Laucher.Settings.resources
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan hotcpot Laucher.csproj.GenerateResource.cache
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\Wlan hotcpot Laucher.csproj.CoreCompileInputs.cache
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\whp.exe
+D:\Александр\JSInt\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Release\whp.pdb

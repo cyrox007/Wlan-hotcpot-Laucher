@@ -1,0 +1,15 @@
+c:\users\александр тасенко\documents\visual studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Debug\Wlan hotcpot Laucher.exe.config
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Debug\Wlan hotcpot Laucher.exe
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Debug\Wlan hotcpot Laucher.pdb
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan_hotcpot_Laucher.Form1.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan_hotcpot_Laucher.Properties.Resources.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan hotcpot Laucher.csproj.GenerateResource.Cache
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan hotcpot Laucher.exe
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan hotcpot Laucher.pdb
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan_hotcpot_Laucher.Settings.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan_hotcpot_Laucher.About.resources
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Debug\Wlan hotcpot Laucher.exe.manifest
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\bin\Debug\Wlan hotcpot Laucher.application
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan hotcpot Laucher.exe.manifest
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan hotcpot Laucher.application
+C:\Users\Александр Тасенко\Documents\Visual Studio 2013\Projects\Wlan hotcpot Laucher\Wlan hotcpot Laucher\obj\Debug\Wlan hotcpot Laucher.csprojResolveAssemblyReference.cache
